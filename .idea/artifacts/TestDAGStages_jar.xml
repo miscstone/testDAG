@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestDAGStages:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestDAGStages_jar</output-path>
+    <root id="archive" name="TestDAGStages.jar">
+      <element id="module-output" name="TestDAGStages" />
+    </root>
+  </artifact>
+</component>
